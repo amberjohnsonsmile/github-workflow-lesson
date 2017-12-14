@@ -17,3 +17,12 @@ h1 {
     font-size: 20rem;
     font-family: 'Amatic SC'
 }
+
+a {
+  font-size: 30px;
+  background-color: purple;
+}
+
+a:hover {
+  background-color: yellow;
+}
